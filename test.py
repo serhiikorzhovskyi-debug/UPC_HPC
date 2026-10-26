@@ -6,4 +6,4 @@ def test_shape():
         [4, 5, 6]
     ])
 
-    assert a.shape == (2, 3)
+    assert a.shape == (3, 3)
